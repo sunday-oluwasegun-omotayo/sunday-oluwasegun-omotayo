@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sunday-oluwasegun-omotayo-35397a368/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Blexzedsuny24" target="_blank">
+  <a href="https://github.com/sunday-oluwasegun-omotayo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:psundayomotayo@gmail.com" target="_blank">
